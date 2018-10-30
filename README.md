@@ -1,2 +1,7 @@
 # prueba
-prueba para ssh
+cambio aqui
+
+
+
+:q
+!ç  ssh
